@@ -1,5 +1,5 @@
 # Model-Importer
-A simple model importer script for roblox lol, thanks to hazel for inspiration
+A simple model importer script for roblox lol, thanks to Hazel for inspiration ♥️♥️
 
 # Why have I made it open source?
 Simple, so you can steal it :D
