@@ -5,6 +5,10 @@ A simple model importer script for roblox lol, thanks to hazel for inspiration
 Simple, so you can steal it :D
 
 # Usage
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mcKTS/Model-Importer/main/modelimporter.lua"))()
+```
+
 https://youtu.be/dggt_2ut-oM (Watch it if you don't know how to use)
 
 Code used in the video:
