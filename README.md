@@ -1,7 +1,11 @@
 # Model-Importer
-A simple model importer script for roblox
+A simple model importer script for roblox lol, thanks to hazel for inspiration
 
-Usage: https://youtu.be/dggt_2ut-oM (Watch it if you don't know how to use)
+# Why have I made it open source?
+Simple, so you can steal it :D
+
+# Usage
+https://youtu.be/dggt_2ut-oM (Watch it if you don't know how to use)
 
 Code used in the video:
 ```
@@ -32,6 +36,5 @@ end
 local json = HttpService:JSONEncode(partsInModel)
 print(json)
 ```
-
-# Why I've made it open source?
-So you can steal it :D
+# Credit
+GreenDeno - Venyx-UI-Library
