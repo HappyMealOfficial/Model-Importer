@@ -2,6 +2,8 @@
 A simple model importer script for roblox lol.
 Thanks to Hazel for inspiration ♥️♥️
 
+Discord Server: https://discord.gg/Bp7wFcZeUn
+
 # Why have I made it open source?
 Simple, so you can steal it :D
 
